@@ -1,7 +1,7 @@
 # Investment Portfolio Application
 
 A web application that helps users manage their investment portfolios, track the performance of their investments, and analyze their financial data. This app allows users to add, update, and track their investment assets, and visualize their portfolio performance over time.
-![Dashboard Screenshot](screenshot-2025-02-08.png)
+![Dashboard Screenshot](Screenshot)
 
 ## Features
 
