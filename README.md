@@ -1,7 +1,7 @@
 # Investment Portfolio Application
 
 A web application that helps users manage their investment portfolios, track the performance of their investments, and analyze their financial data. This app allows users to add, update, and track their investment assets, and visualize their portfolio performance over time.
-![Investment Portfolio Dashboard](/Users/sameersdeshpande/Downloads/investment-portfolio/Screenshot 2025-02-08 at 9.18.54 PM.png)
+![Investment Portfolio Dashboard](Screenshot 2025-02-08 at 9.18.54 PM.png)
 ## Features
 
 - **User Authentication**: Sign up, login, and manage user sessions securely.
